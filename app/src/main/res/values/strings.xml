@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LVE Navigator</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="tab_text_1">Amenities</string>
+    <string name="tab_text_2">Units 001 - 099</string>
+    <string name="tab_text_3">Units 100 - 199</string>
+    <string name="tab_text_4">Units 200 - 314</string>
+</resources>
